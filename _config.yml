@@ -1,0 +1,14 @@
+# main text of home
+name: Chenzhi Zhu
+
+picture: assets/images/p1.jpg
+
+cv: assets/pdf/ChenzhiZhu_CV.pdf
+
+# if you don't have any of social below, comment the line
+email: mrbrtpt@gmail.com
+
+gems:
+  - jekyll-seo-tag
+
+exclude: [README.md, Gemfile, Gemfile.lock, _site, Rakefile, travis.sh, vendor]
