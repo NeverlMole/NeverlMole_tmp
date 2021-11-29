@@ -1,12 +1,12 @@
 # main text of home
 name: Chenzhi Zhu
 
-picture: assets/images/p1_20.jpg
+picture: assets/images/p1_c_m.jpg
 
 cv: assets/pdf/ChenzhiZhu_CV.pdf
 
 # if you don't have any of social below, comment the line
-email: mrbrtpt@gmail.com
+email: zhucz20 at uw dot edu
 
 gems:
   - jekyll-seo-tag
